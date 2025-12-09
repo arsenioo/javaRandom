@@ -1,0 +1,3 @@
+java 8.67s user 0.04s system 99% cpu 8.732 total
+dart 7.77s user 0.01s system 98% cpu 7.940 total
+cpp  5.60s user 0.01s system 99% cpu 5.616 total
